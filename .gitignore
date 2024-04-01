@@ -1,0 +1,5 @@
+# don't push huge amounts of data to the github :3
+*.csv
+*.txt
+*.json
+*.tsv
